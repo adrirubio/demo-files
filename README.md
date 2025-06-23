@@ -1,2 +1,3 @@
-# ai-pdf-reader-demo
-Demo video of the ai-pdf-reader project
+# demo-files
+Contains the demos of all the shipwrecked projects
+
